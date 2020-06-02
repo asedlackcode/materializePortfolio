@@ -1,0 +1,17 @@
+body {
+    background-image: url(../img/background.jpg);
+}
+.aboutMe {
+    border-bottom: thin black solid;
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.mainPic {
+    width: 300px;
+}
+.mainInfo {
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
