@@ -31,3 +31,13 @@ body {
 .hr2 {
     width: 50%;
 }
+/* contact page */
+.contactLines {
+    width: 30%;
+}
+
+@media only screen and (max-width: 600px) {
+    #mobile {
+      width: 100%;
+    }
+  }
