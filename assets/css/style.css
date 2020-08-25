@@ -44,6 +44,9 @@ body {
 .contactLines {
     width: 30%;
 }
+.freelance {
+    text-align: left;
+}
 
 
 @media only screen and (max-width: 768px) {
